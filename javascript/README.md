@@ -1,6 +1,8 @@
-Estudando estruturação de projeto conforme MVC.
+Projeto de exercício com a utilização do padrão MVC.
 
-Tecnologias utilizadas:
+O projeto gera uma pessoa aleatória após o click do botão e mostra a informação dela na página.
+
+Ferramentas utilizadas:
 
 - HTML
 - Javascript
